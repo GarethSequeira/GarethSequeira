@@ -39,7 +39,7 @@
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 </a>
 <a href="https://jupyter.org/">
-<img align="left" alt="Python" width="32px" src="https://jupyter.org/assets/main-logo.svg" />
+<img align="left" alt="Jupyter" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/66px-Jupyter_logo.svg.png" />
 </a>
 <br/>
 <br/>
